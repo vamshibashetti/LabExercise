@@ -55,6 +55,7 @@ namespace LabExercise
            [DataRow(10,2,3)]
            [DataRow(20,5,5)]
            [DataRow(30,5,5)]
+            [DataRow(30,5,5)]
             public void NegativeTestdivMethod(int n1,int n2,int exp)
         {
             double actualresult = MyCalc.div(n1,n2);
