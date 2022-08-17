@@ -25,6 +25,8 @@ namespace LabExercise
         [DataRow(10,20,30)]
         [DataRow(20,20,40)]
         [DataRow(30,30,60)]
+        [DataRow(2,2,4)]
+
         public void TestDataAddMethod(double op1,double op2,double exp)
         {
             double actualresult = MyCalc.Add(op1,op2);
