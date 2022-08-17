@@ -30,6 +30,16 @@ namespace LabExercise
             double actualresult = MyCalc.Add(op1,op2);
             Assert.AreEqual(exp,actualresult,"add method is failed ");
         }
+         [DataTestMethod]
+        [DataRow(20,10,10)]
+        [DataRow(5,2,3)]
+        [DataRow(6,2,4)]
+        public void negativeTestAddMethod(double op1,double op2,double exp)
+        {
+            double actualresult = MyCalc.Add(op1,op2);
+            Assert.AreNotEqual(exp,actualresult,"add method is failed ");
+        }
+
            [DataTestMethod]
            [DataRow(10,2,5)]
            [DataRow(20,5,4)]
