@@ -1,0 +1,9 @@
+C:\Root Folder\Day_02\LabExercise\MyCalc\bin\Debug\netstandard2.0\MyCalc.deps.json
+C:\Root Folder\Day_02\LabExercise\MyCalc\bin\Debug\netstandard2.0\MyCalc.dll
+C:\Root Folder\Day_02\LabExercise\MyCalc\bin\Debug\netstandard2.0\MyCalc.pdb
+C:\Root Folder\Day_02\LabExercise\MyCalc\obj\Debug\netstandard2.0\MyCalc.csprojAssemblyReference.cache
+C:\Root Folder\Day_02\LabExercise\MyCalc\obj\Debug\netstandard2.0\MyCalc.AssemblyInfoInputs.cache
+C:\Root Folder\Day_02\LabExercise\MyCalc\obj\Debug\netstandard2.0\MyCalc.AssemblyInfo.cs
+C:\Root Folder\Day_02\LabExercise\MyCalc\obj\Debug\netstandard2.0\MyCalc.csproj.CoreCompileInputs.cache
+C:\Root Folder\Day_02\LabExercise\MyCalc\obj\Debug\netstandard2.0\MyCalc.dll
+C:\Root Folder\Day_02\LabExercise\MyCalc\obj\Debug\netstandard2.0\MyCalc.pdb
